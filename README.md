@@ -13,10 +13,11 @@ Tecnologías
 Instalación:
 
 1. Cloná el repositorio
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/tu-usuario/PT---HoyTrabajas.git
+cd tu-repo
+ 
 
-2. Instalá dependencias
+3. Instalá dependencias
 
 ```bash
 npm install
