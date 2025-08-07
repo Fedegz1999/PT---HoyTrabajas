@@ -14,10 +14,10 @@ Instalación:
 
 1. Cloná el repositorio
    git clone https://github.com/tu-usuario/PT---HoyTrabajas.git
-cd tu-repo
+
  
 
-3. Instalá dependencias
+2. Instalá dependencias
 
 ```bash
 npm install
