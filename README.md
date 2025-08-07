@@ -12,8 +12,12 @@ Tecnologías
 
 Instalación:
 
-1. Cloná el repositorio
-   git clone https://github.com/tu-usuario/PT---HoyTrabajas.git
+
+1. Cloná el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/PT---HoyTrabajas.git
+```
 
  
 
